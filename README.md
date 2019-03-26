@@ -38,4 +38,4 @@ O objetivo desse projeto é analisar a relação de desempenho acadêmico dos al
 A escolha do horário no qual o discente pagará as disciplinas é um fator importante, uma vez que, analisando os resultados dos três semestres estudados, percebe-se que o rendimento dos alunos no turno noturno é inferior aos demais horários. Pode haver inúmeros fatores que não foram registrados no DataSet que expliquem esse comportamento: alunos que trabalham e estudam, cuidam de casa... No entanto, pode-se afimar uma relação entre a taxa de faltas e o mau desempenho acadêmico: movimento perceptível no DataSet. É visível a diminuição na **média de notas dos alunos** do turno noturno. Talvez, as faltas sejam causadas por esses mesmos fatores externos. Não podemos, porém, confimar.
 
 # 5 Autoria
-Projeto desenvolvido por **Lucas Miguel Martiniano** ([lus-cas](https://github.com/lus-cas)).
+Projeto desenvolvido por **Lucas Miguel Martiniano** ([@luscasmm](https://github.com/luscasmm)).
